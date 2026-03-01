@@ -1,6 +1,6 @@
-# CareerNav AI (Team Helios) 🚀
+# EduVance (Team Helios) 🚀
 
-**CareerNav AI** is an advanced career guidance platform designed to empower students and professionals with AI-driven insights. By analyzing resumes, GitHub repositories, and LeetCode profiles, the platform provides personalized roadmaps, job market analysis, and skill verification to bridge the gap between education and industry requirements.
+**Eduvance** is an advanced career guidance platform designed to empower students and professionals with AI-driven insights. By analyzing resumes, GitHub repositories, and LeetCode profiles, the platform provides personalized roadmaps, job market analysis, and skill verification to bridge the gap between education and industry requirements.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
