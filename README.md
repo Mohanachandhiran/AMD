@@ -48,7 +48,7 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Mohanachandhiran/AMD.git
-   cd Team-Helios
+   cd app
    ```
 
 2. **Install Dependencies**
