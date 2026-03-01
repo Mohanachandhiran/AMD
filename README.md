@@ -47,7 +47,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Yuvaneshv2007/Team-Helios.git
+   git clone https://github.com/Mohanachandhiran/AMD.git
    cd Team-Helios
    ```
 
